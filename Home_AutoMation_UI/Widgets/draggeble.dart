@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/Sample_project/Widgets/SwipeArrors.dart';
+import 'package:flutter_application_1/Widgets/SwipeArrors.dart';
 
 class Draggable2 extends StatelessWidget {
   final String text2;
