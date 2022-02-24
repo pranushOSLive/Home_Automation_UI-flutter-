@@ -1,8 +1,8 @@
 import 'dart:html';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/Sample_project/Screens/homeScreen.dart';
-import 'package:flutter_application_1/Sample_project/Widgets/SwipeArrors.dart';
+import 'package:flutter_application_1/Screens/homeScreen.dart';
+import 'package:flutter_application_1/Widgets/SwipeArrors.dart';
 
 class introScreen extends StatelessWidget {
   const introScreen({Key key}) : super(key: key);
