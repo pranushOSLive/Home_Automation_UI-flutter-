@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/Sample_project/Screens/StudioLightScreen.dart';
-import 'package:flutter_application_1/Sample_project/Widgets/SwipeArrors.dart';
-import 'package:flutter_application_1/Sample_project/Widgets/draggeble.dart';
-import 'package:flutter_application_1/help_codes/gesterDetec.dart';
+import 'package:flutter_application_1/Screens/StudioLightScreen.dart';
+import 'package:flutter_application_1/Widgets/SwipeArrors.dart';
+import 'package:flutter_application_1/Widgets/draggeble.dart';
 
 class Devices extends StatefulWidget {
   const Devices({Key key}) : super(key: key);
