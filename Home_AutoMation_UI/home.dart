@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/Sample_project/Screens/Intro_Screen.dart';
+import 'package:flutter_application_1/Screens/Intro_Screen.dart';
 
 class home extends StatelessWidget {
   const home({Key key}) : super(key: key);
