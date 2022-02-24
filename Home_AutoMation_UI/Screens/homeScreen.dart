@@ -1,9 +1,9 @@
 import 'dart:html';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/Sample_project/Widgets/bottomAppBar.dart';
-import 'package:flutter_application_1/Sample_project/Widgets/devices.dart';
-import 'package:flutter_application_1/Sample_project/Widgets/rooms.dart';
+import 'package:flutter_application_1/Widgets/bottomAppBar.dart';
+import 'package:flutter_application_1/Widgets/devices.dart';
+import 'package:flutter_application_1/Widgets/rooms.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key key}) : super(key: key);
