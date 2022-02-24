@@ -33,4 +33,4 @@ Screens import widgets from widget folder(some screen contain widgets too.
 ________________________________________________________
 The project made in VS Code so its formatted to readable.
 _________________________________________________________
-
+NOTE: Some Screens Contains widgets too.
