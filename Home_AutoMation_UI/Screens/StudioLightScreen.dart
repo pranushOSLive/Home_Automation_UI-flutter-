@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/help_codes/gesterDetec.dart';
 
 class StudioColors extends StatefulWidget {
   const StudioColors({Key key}) : super(key: key);
