@@ -33,4 +33,8 @@ Screens import widgets from widget folder(some screen contain widgets too.
 ________________________________________________________
 The project made in VS Code so its formatted to readable.
 _________________________________________________________
-NOTE: Some Screens Contains widgets too.
+NOTE: Some Screens Cont![Samp1](https://user-images.githubusercontent.com/84261252/155466663-8550e28a-5f6e-44a7-a7d5-d8c9ee813e70.jpg)
+ains widgets too.
+![Samp2](https://user-images.githubusercontent.com/84261252/155466681-e34da958-4fda-4aab-bf58-2ce80102fcfa.jpg)
+![samp3](https://user-images.githubusercontent.com/84261252/155466690-3f42c9d0-e5e7-4973-a36f-ded1ccd53e27.jpg)
+![samp4](https://user-images.githubusercontent.com/84261252/155466699-48c90e1a-ac79-4441-8727-6c76d4952a18.jpg)
