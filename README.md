@@ -8,7 +8,7 @@ PLEASE NOTE:
 |                              |
 |                              |   All debug sessions performed on webbased
 |                              |   JS (Some issues with virtual android)
-|  500x500 resolution takesn   |
+|  500x500 resolution taken   |
 |                              |
 |                              |  But the defaut resolution 500x500 wont 
 |                              |  effect the project while debugging on 
